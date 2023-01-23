@@ -102,7 +102,7 @@
                     <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
                         <h3 class="flaticon-food display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Feeding</h3>
-                        <p>Diam amet eos at no eos sit lorem, amet rebum ipsum clita stet, diam sea est magna diam eos, rebum sit vero stet ipsum justo</p>
+                        <p>Our Pet Feeding Services ensure your pets continue to enjoy all the creature comforts of home whist you're away!</p>
                         <a class="text-uppercase font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
@@ -117,8 +117,8 @@
                 <div class="col-md-6 col-lg-4 mb-4">
                     <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
                         <h3 class="flaticon-cat display-3 font-weight-normal text-secondary mb-3"></h3>
-                        <h3 class="mb-3">Per Training</h3>
-                        <p>We have training services for your dog designed for individual dog.</p>
+                        <h3 class="mb-3">Pet Training</h3>
+                        <p>Our pets training services are aimed at providing your pet with basic training, behavioural training, obedience training, and agility training.</p>
                          <a class="text-uppercase font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
@@ -126,7 +126,7 @@
                     <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
                         <h3 class="flaticon-dog display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Exercise</h3>
-                        <p>Diam amet eos at no eos sit lorem, amet rebum ipsum clita stet, diam sea est magna diam eos, rebum sit vero stet ipsum justo</p>
+                        <p>We came up with some great indoor and outdoor activities that will help your pets stay healthy and entertained and give them some mental stimulation.</p>
                         <a class="text-uppercase font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
@@ -134,7 +134,7 @@
                     <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
                         <h3 class="flaticon-vaccine display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Treatment</h3>
-                        <p>Diam amet eos at no eos sit lorem, amet rebum ipsum clita stet, diam sea est magna diam eos, rebum sit vero stet ipsum justo</p>
+                        <p>Our veterinarians and behaviorists offer up tips, solutions and answers to some of your most frequently asked questions to keep your pets happy and healthy.</p>
                         <a class="text-uppercase font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
@@ -155,7 +155,7 @@
             <div class="col-lg-7 py-5 py-lg-0 px-3 px-lg-5">
                 <h4 class="text-secondary mb-3">Why Choose Us?</h4>
                 <h1 class="display-4 mb-4"><span class="text-primary">Special Care</span> On Pets</h1>
-                <p class="mb-4">A pet shop sells anything and everything pet-related. A pet shop supply offers the products needed to keep a pet healthy and happy. </p>
+                <p class="mb-4">We are your dog’s lifelong pet care provider.  We care for dogs of all ages and breeds.  Dogs that require medication and specialized care. We are terrific cat sitters and even cared for feral cats and colonies and barn cats too. A pet shop sells anything and everything pet-related. A pet shop supply offers the products needed to keep a pet healthy and happy. </p>
                 <div class="row py-2">
                     <div class="col-6">
                         <div class="d-flex align-items-center mb-4">
@@ -194,23 +194,7 @@
             <h1 class="display-4 m-0">Meet Our <span class="text-primary">Team Member</span></h1>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-6">
-                <div class="team card position-relative overflow-hidden border-0 mb-4">
-                    <img class="card-img-top" src="assets-home/img/sanaol.jpg" alt="">
-                    <div class="card-body text-center p-0">
-                        <div class="team-text d-flex flex-column justify-content-center bg-light">
-                            <h5>Lester & Claire</h5>
-                            <i>Founder & CEO</i>
-                        </div>
-                        <div class="team-social d-flex align-items-center justify-content-center bg-dark">
-                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-linkedin-in"></i></a>
-                            <a class="btn btn-outline-primary rounded-circle text-center px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
             <div class="col-lg-3 col-md-6">
                 <div class="team card position-relative overflow-hidden border-0 mb-4">
                     <img class="card-img-top" src="assets-home/img/team-2.jpg" alt="">

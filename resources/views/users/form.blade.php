@@ -21,7 +21,8 @@
                 <div class="p-6 text-gray-900 dark:text-gray-100">
 
 
- <form method="POST" action="{{ ( url()->current() == url('/users/add') ) ? url('/users/add'):url('/users/update/' . $user->id) ,  ( url()->current() == url('/users/add') ) ? url('/users/add') :url('/users/delete/' . $user->id)}}">
+ <form method="POST" action="{{ ( url()->current() == url('/users/add') ) ? url('/users/add'):url('/users/update/' . $user->id) ,
+                                ( url()->current() == url('/users/add') ) ? url('/users/add') :url('/users/delete/' . $user->id) }}">
 
                         @csrf
 
@@ -44,7 +45,7 @@
                             <x-input-label for="password" :value="__('Password')" />
 
                             <x-text-input id="password" class="block mt-1 w-full"
-                                            type="password"
+                                            type="password "
                                             name="password"
                                             required autocomplete="new-password" />
 

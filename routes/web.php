@@ -3,6 +3,9 @@
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AnnouncementController;
+
+
 
 /*
 |--------------------------------------------------------------------------
@@ -18,6 +21,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
+
 
 Route::get('/dashboard', function () {
     return view('dashboard');
@@ -42,6 +46,26 @@ Route::post('/users/update/{id}',[UserController::class, 'update'])
 
 Route::get('/users/delete/{id}',[UserController::class, 'destroy'])
         ->middleware(['auth', 'verified']);
+
+
+
+
+
+Route::get('/announcement', function () {
+            return view('announcement');
+        })->middleware(['auth', 'verified'])->name('announcement');
+
+Route::get('/announcement',[AnnouncementController::class, 'index'])
+        ->middleware(['auth', 'verified'])
+        ->name('announcement');
+
+
+
+
+
+
+
+
 
 
 
